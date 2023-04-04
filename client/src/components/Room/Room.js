@@ -454,6 +454,7 @@ const UserName = styled.div`
   position: absolute;
   font-size: calc(20px + 5vmin);
   z-index: 1;
+  color:white !important;
 `;
 
 const FaIcon = styled.i`

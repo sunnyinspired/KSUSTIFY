@@ -1,6 +1,5 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
-import Main from './components/Main/Main';
 import Room from './components/Room/Room'
 import styled from 'styled-components';
 import Login from './components/Main/Login';
