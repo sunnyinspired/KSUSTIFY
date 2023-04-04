@@ -1,4 +1,4 @@
-# Video-Group-Meeting-Server
+# KSUSTIFY Web Conferencing App - Server
 
 - Node Express
 - Socket.io

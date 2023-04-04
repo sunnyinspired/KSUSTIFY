@@ -1,6 +1,6 @@
-# Video-Group-Meeting
+# KSUSTIFY Web Conferencing App
 
-Videe-Group-Meeting is a simple video chat application for multi-users based on React, Node Express and WebRTC.
+KSUSTIFY is a simple video chat application for multi-users based on React, Node Express and WebRTC.
 
 This project is **deployed** at: https://video-group-meeting.herokuapp.com/
 
@@ -12,13 +12,15 @@ This project is **deployed** at: https://video-group-meeting.herokuapp.com/
 - Socket.io
 - [Syled-components](https://styled-components.com/)
 - [Simple-peer](https://github.com/feross/simple-peer)
+- MySQL
 
-**Contributors:** [Hyunse Kim](https://github.com/Hyunse)
+**Contributors:** [Hyunse Kim](https://github.com/Hyunse) for the project foundation which I built upon
 
 ---
 
 ## Features
 
+- Login / Register
 - Join a room
 - Video Streaming
 - Text chat
@@ -27,7 +29,7 @@ This project is **deployed** at: https://video-group-meeting.herokuapp.com/
 
 ## Installation
 ### Clone
-- Clone this repo to your local machine using `https://github.com/Hyunse/video-group-meeting.git`
+- Clone this repo to your local machine using `https://github.com/sunnyinspired/ksustify.git`
 
 ### Setup
 **Client**

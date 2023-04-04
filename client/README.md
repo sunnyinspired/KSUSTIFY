@@ -1,4 +1,4 @@
-# Video-Group-Meeting-Client
+# KSUSTIFY Web Conferencing App - Client
 
 - React
 - WebRTC
